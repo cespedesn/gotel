@@ -10,7 +10,7 @@ class App extends React.Component {
           <article class="fullheight">
             <div class="hgroup">
               <h1>Gotel Hotel</h1>
-              <h2>West London</h2>
+              <h2>SoHo</h2>
               <p><a href="#welcome"><img src="https://landonhotel.com/images/misc/arrow.png" alt="down arrow"/></a></p>
             </div>
           </article>
@@ -40,7 +40,7 @@ class App extends React.Component {
                 <img className="hidesm" src="https://landonhotel.com/images/hotel/intro_wedding.jpg" alt="Intro Gallery Dining Sample Pictures"/>
               </div>
               <h1>Welcome to the Gotel&nbsp;Hotel</h1>
-              <p>The original Gotel perseveres after 50 years in the heart of West London. The West End neighborhood has something for everyone—from theater to dining to historic sights. And the not-to-miss Rooftop Cafe is a great place for travelers and locals to engage over drinks, food, and good&nbsp;conversation. &nbsp;To learn more about the Gotel Hotel in the West End, browse our website and <a href="files/landon_information_sheet_London.pdf">download our handy information sheet</a>.</p>
+              <p>The original Gotel Hotel perseveres after 50 years in the heart of SoHo. The cobblestoned neighborhood has something for everyone—from nightlife to dining to historic sights. And the not-to-miss Museum of Icecream is a great place for travelers and locals to engage. &nbsp;To learn more about sensational things to do in SoHo, browse here <a href="https://secretnyc.co/what-to-do-in-soho-nyc/#:~:text=From%20its%20Instagrammable%20cobblestone%20streets,celebrity%20sightings%20and%20restaurant%20staples.">Inside scoop on all the best spots around SoHo</a>.</p>
             </article>
           </div>
 
