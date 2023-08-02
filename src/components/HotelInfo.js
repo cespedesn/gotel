@@ -1,5 +1,5 @@
 import React from 'react'
-import accessibilityData from './data/accessibility.json'
+import accessibilityData from './data/accessibilities.json'
 import servicesData from './data/services.json'
 
 
