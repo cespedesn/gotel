@@ -22,7 +22,7 @@ accessibilitiesData.forEach(function(accessibility) {
     dynamodb.put(params, function(err, data) {
         if (err)
             console.error("Unable to load data into table for accessibility",
-                                        accessibility.name, ". Error: ", JSON.stringify(err, null, 2))
+            accessibility.name, ". Error: ", JSON.stringify(err, null, 2))
         else
             console.log("Added", accessibility.name, "to table.")
     })
